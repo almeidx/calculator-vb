@@ -1,0 +1,11 @@
+D:\Coding\vb\Calculator\Calculator\bin\Release\Calculator.exe.config
+D:\Coding\vb\Calculator\Calculator\bin\Release\Calculator.exe
+D:\Coding\vb\Calculator\Calculator\bin\Release\Calculator.pdb
+D:\Coding\vb\Calculator\Calculator\bin\Release\Calculator.xml
+D:\Coding\vb\Calculator\Calculator\obj\Release\Calculator.Form1.resources
+D:\Coding\vb\Calculator\Calculator\obj\Release\Calculator.Resources.resources
+D:\Coding\vb\Calculator\Calculator\obj\Release\Calculator.vbproj.GenerateResource.cache
+D:\Coding\vb\Calculator\Calculator\obj\Release\Calculator.vbproj.CoreCompileInputs.cache
+D:\Coding\vb\Calculator\Calculator\obj\Release\Calculator.exe
+D:\Coding\vb\Calculator\Calculator\obj\Release\Calculator.xml
+D:\Coding\vb\Calculator\Calculator\obj\Release\Calculator.pdb
